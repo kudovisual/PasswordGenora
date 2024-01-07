@@ -8,4 +8,4 @@
 # Ảnh chụp
 Ảnh chụp xem trước tại ⇩
 
-![screenshot](assets/screenshot.jpg)
+![screenshot](assets/screenshot.png)
